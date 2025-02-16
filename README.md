@@ -1,2 +1,2 @@
 # apnacollegedemo
-my first repositor
+my first repository
